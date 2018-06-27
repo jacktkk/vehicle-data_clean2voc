@@ -1,5 +1,5 @@
 # data_clean2voc
-The repository consists of some scripts that can clean the annotations to xml files
+The repository consists of some scripts that can clean the annotations to xml files for vehicle detection.
 
 ---
 #### For DETRAC dataset
