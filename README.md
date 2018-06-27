@@ -5,8 +5,8 @@ The repository consists of some scripts that can clean the annotations to xml fi
 #### For DETRAC dataset
 ```
 You can download it by using the following URL.
-https://detrac-db.rit.albany.edu/download
 ```
+https://detrac-db.rit.albany.edu/download
 
 ---
 #### Training YOLO on VOC
