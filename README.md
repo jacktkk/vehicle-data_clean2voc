@@ -6,6 +6,7 @@ The repository consists of some scripts that can clean the annotations to xml fi
 ```
 You can download it by using the following URL.
 ```
+![](imgs/DETRAC_data.png "training_data")
 https://detrac-db.rit.albany.edu/download
 ```
 For example
