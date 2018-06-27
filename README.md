@@ -2,9 +2,10 @@
 The repository consists of some scripts that can clean the annotations to xml files
 
 ---
-#### Real-Time Detection on a Webcam
+#### For DETRAC dataset
 ```
-python demo.py cfg/tiny-yolo-voc.cfg tiny-yolo-voc.weights
+You can download it by using the following URL.
+https://detrac-db.rit.albany.edu/download
 ```
 
 ---
