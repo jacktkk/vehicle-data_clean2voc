@@ -7,7 +7,8 @@ The repository consists of some scripts that can clean the annotations to xml fi
 You can download it by using the following URL.
 ```
 https://detrac-db.rit.albany.edu/download
-
+For example
+![](imgs/DETRAC_data.png "training_data")
 ---
 #### Clean step
 ##### Firstly read the information in the original xml file
@@ -27,6 +28,8 @@ run ImageSets_builder.py
 ```
 You can download it by using the following URL.
 [LSVH dataset](https://drive.google.com/open?id=1yHeuZia3pbcbn8OLkotJGJGhczI7gM3e).
+For example
+![](imgs/LSVH_data.png "training_data")
 ```
 ---
 #### Clean step
