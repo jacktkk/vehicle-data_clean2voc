@@ -22,3 +22,14 @@ run Data_migrator.py
 ```
 run ImageSets_builder.py
 ```
+---
+#### For LSVH dataset
+```
+You can download it by using the following URL.
+[LSVH dataset](https://drive.google.com/open?id=1yHeuZia3pbcbn8OLkotJGJGhczI7gM3e).
+```
+---
+#### Clean step
+```
+just run lsvh2pascalvoc.py
+```
